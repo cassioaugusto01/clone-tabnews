@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação do Tabnews
+Implementação do Tabnews v2
